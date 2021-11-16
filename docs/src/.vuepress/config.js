@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Whitewater Magpie Ltd. lives here, but doesn\' much care for your visit.',
+  title: 'Whitewater Magpie Ltd. lives here, but doesn\'t much care for your visit.',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
